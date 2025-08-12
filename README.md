@@ -1,5 +1,3 @@
-# README_en.md
-
 # Pip Mirror Manager (pip下载加速配置)
 
 A cross‑platform PyPI mirror switcher for pip. Ships with popular HTTPS mirrors and custom URL support; auto language detection (zh‑Hans/zh‑Hant/en), Tk GUI with CLI fallback; writes user‑level config per platform and adds trusted‑host when using HTTP.
